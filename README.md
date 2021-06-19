@@ -28,19 +28,6 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 💻 Full Stack Developer | 🎓 Software Engineering Undergraduate at SLIIT  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h3>
 </div>
 <br>
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
-**Talking about Personal Stuffs:**
-<hr>
-
-- 👨🏽‍💻 I’m currently working on Deep Learning projects. Here is [My Repositories](https://github.com/kulanaavinash?tab=repositories);
-- 🌱 I’m currently learning High Level Deep Learning APIs. 
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Interesting-Fact: I'm really fast to learn something new and I'm open for new technologies too.
-- 📫 How to reach me: kulanaavinash2018@gmail.com;
-- Also check my <a href="">portfolio</a> out
-
 <br>
 <p align="center">
   <a href="https://github.com/kulanaavinash/github-readme-stats">
