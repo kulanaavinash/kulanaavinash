@@ -1,6 +1,6 @@
 <div align="right">
 
-![](https://visitor-badge.glitch.me/badge?page_id=kulanaavinash)
+![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 
 </div>
  
